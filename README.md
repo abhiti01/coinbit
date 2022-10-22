@@ -1,5 +1,5 @@
 
-# COP5615 Distributed Operating System Principles
+
 
 # How to run this program 
 
